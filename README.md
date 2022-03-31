@@ -48,17 +48,14 @@
 
 
 ## Connect with me  
-<div align="center">
-<a href="https://github.com/vkonstantunov" target="_blank">
-<img src=https://simpleicons.org/icons/github.svg=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/RishavAnandDev" target="_blank">
-<img src=https://simpleicons.org/icons/twitter.svg=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://habr.com/ru/users/Ikace/" target="_blank">
-<img src=https://simpleicons.org/icons/habr.svg=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-</div>  
+<h3 align="center">Connect with me:</h3>
+<p align=center">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://simpleicons.org/icons/habr.svg" alt="" height="30" width="40" /></a>
+</p>
+
   
 
 <br/>  
