@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">Hi my name is Vladislav, I am a junior python developer👨‍💻 Started his way in development in 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/vkonstantunov)  
