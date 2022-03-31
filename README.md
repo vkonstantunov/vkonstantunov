@@ -50,9 +50,8 @@
 ## Connect with me  
 <div align="center">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="60" width="60" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="60" width="60" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="60" width="60" /></a>
-<a href="your link" target="blank"><img align="center" src="https://simpleicons.org/icons/habr.svg" alt="" height="60" width="60" /></a>
+<a href="https://github.com/vkonstantunov" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="" height="60" width="60" /></a>
+<a href="https://habr.com/ru/users/Ikace/" target="blank"><img align="center" src="https://simpleicons.org/icons/habr.svg" alt="" height="60" width="60" /></a>
 </p>
 
   
@@ -66,8 +65,9 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=vkonstantunov&&style=flat-square" align="center" />
 </div>  
+  
 
 <br />
 
