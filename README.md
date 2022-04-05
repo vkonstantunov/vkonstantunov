@@ -34,6 +34,7 @@
 <img style="margin: 10px" src="https://simpleicons.org/icons/linux.svg" alt="Linux" height="50" />   
 <img style="margin: 10px" src="https://simpleicons.org/icons/git.svg" alt="Git" height="50" />
 <img style="margin: 10px" src="https://simpleicons.org/icons/django.svg" alt="Django" height="50" /> 
+<img style="margin: 10px" src="https://simpleicons.org/icons/python.svg" alt="Python" height="50" /> 
 <img style="margin: 10px" src="https://simpleicons.org/icons/gnubash.svg" alt="Bash" height="50" />  
 </div></td><td valign="top" width="33%">
 
